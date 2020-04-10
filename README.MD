@@ -86,7 +86,7 @@ export  $initHighlight;
 Esto es una referencia a una cita:
 > Esto es una cita.
 
-dos entes para salir de la cita.
+dos enter para salir de la cita.
 > Solo con el mayor que.
 
 # Líneas Divisoras
